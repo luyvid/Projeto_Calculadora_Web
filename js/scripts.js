@@ -1,0 +1,6 @@
+
+
+function clique() {
+alert("Clique")
+
+}
